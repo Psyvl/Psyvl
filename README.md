@@ -1,9 +1,9 @@
 # 👾 Psyul
 
-Bienvenido a mi espacio en GitHub. Aquí encontrarás proyectos, experimentos y 
-código que reflejan mi enfoque en la programación, la creatividad y la autenticidad.
+Bienvenido a mi espacio en GitHub. Aquí comparto proyectos, experimentos y código que 
+reflejan mi visión sobre la programación, la creatividad y la autenticidad.
 
-## 🚀 Sobre Psyul
+## 🚀 Sobre mi...
 
 Con una base en artes gráficas y un Grado en Diseño de Producto, he pasado una década como 
 Técnico de Diseño, especializándome en gestión del color e impresión digital Inkjet. Durante 
@@ -20,7 +20,7 @@ este tiempo, he brindado soporte y atención personalizada a clientes mientras r
 - 🌐 **Desarrollo Web** | 🔢 **Algoritmos & Lógica**
 
 ## 🧠 Filosofía
-> "El conocimiento es un flujo constante; quien deja de aprender, deja de avanzar."
+> "El conocimiento es un flujo constante; dejar de aprender, es deja de avanzar."
 
 ## 📩 Contacto
 - 🌐 **[GitHub](https://github.com/Psyul)**
