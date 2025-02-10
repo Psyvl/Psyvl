@@ -1,32 +1,33 @@
 # 👾 Psyul
 
-Bienvenido a mi espacio en GitHub. Aquí comparto proyectos, experimentos y código que 
-reflejan mi visión sobre la programación, la creatividad y la autenticidad.
+Welcome to my GitHub profile! Here, I share my projects, experiments, and code that reflect 
+my own vision on programming, creativity, and authenticity.
 
-## 🚀 Sobre mi...
+🌎 **This README is also available in Spanish:
+** [README_ES.md](./README_ES.md)
 
-Con una base en artes gráficas y un Grado en Diseño de Producto, he pasado una década como 
-Técnico de Diseño, especializándome en gestión del color e impresión digital Inkjet. Durante 
-este tiempo, he brindado soporte y atención personalizada a clientes mientras recorría el mundo.
+## 🚀 About Me
+With a background in Graphic Arts and a degree in Product Design, I spent a decade as a Design Technician, 
+specializing in Color Management and Digital Inkjet Printing. During this time, I have provided technical 
+support and personalized customer service while traveling around the world.
 
-- 🔹 **Código y creatividad:** Explorando ideas, proyectos y desarrollos con una visión única.
-- 🔹 **Aprendizaje continuo:** Siempre en evolución, mejorando habilidades y creando nuevas soluciones.
+- 🔹 **Code & Creativity:** Exploring ideas, projects, and developments with a unique vision.
+- 🔹 **Continuous Learning:** Always evolving, improving skills, and creating new solutions.
 
-## 🔧 Tecnologías y Herramientas
+## 🔧 Technologies & Tools
+💼 **Main tools I work with:**
+- 🐍 **Python** | 💻 **Git & GitHub** | ⚙️ **Automation**  
+- 🌐 **Web Development** | 🔢 **Algorithms & Logic**
 
-💼 Principales herramientas con las que trabajo:
+## 🧠 Philosophy
+> "Knowledge is a continuous flow; stopping to learn means stopping to move forward."
 
-- 🐍 **Python** | 💻 **Git & GitHub** | ⚙️ **Automatización**  
-- 🌐 **Desarrollo Web** | 🔢 **Algoritmos & Lógica**
-
-## 🧠 Filosofía
-> "El conocimiento es un flujo constante; dejar de aprender, es deja de avanzar."
-
-## 📩 Contacto
+## 📩 Contact
 - 🌐 **[GitHub](https://github.com/Psyul)**
-- 📝 Próximamente más espacios donde Psyul dejará su huella...
+- 📝 More spaces coming soon where Psyul will leave his mark...
 
 ---
-🚀 **Construyendo, explorando y perfeccionando cada línea de código.**
 
-🌱 Explorando nuevas tecnologías y aplicando el código a soluciones creativas y eficientes.
+🚀 **Building, exploring, and refining every line of code.**
+
+🌱 **Exploring new technologies and applying code to creative and efficient solutions.**
